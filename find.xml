@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="UML_TO_JAVA_DOC" />
     <option name="defaultScopeName" value="UML_TO_JAVA_DOC" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="UML_TO_JAVA_DOC" />
   </component>
 </application>
